@@ -20,7 +20,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 # See https://docs.djangoproject.com/en/4.2/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = 'django-insecure-k(g4_4unth+u+c_x$-os19h_igvrl%*ng%zb%h)0skbh##bpm7'
+SECRET_KEY = 'django-insecure-razk=bvj)lsxw_9l4h^pq^9*gfbr495dxx7tvp7-n+hi5=8f=!'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
@@ -36,7 +36,7 @@ INSTALLED_APPS = [
     'django.contrib.contenttypes',
     'django.contrib.sessions',
     'django.contrib.messages',
-    'django.contrib.staticfiles',
+    'django.contrib.staticfiles','mathapp'
 ]
 
 MIDDLEWARE = [
@@ -116,7 +116,8 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/4.2/howto/static-files/
 
 STATIC_URL = 'static/'
-STATICFILES_DIRS=[os.path.join(BASE_DIR,'mapapp/static')]
+STATICFILES_DIRS=[os.path.join(BASE_DIR,'mathapp/static')]
+
 # Default primary key field type
 # https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field
 

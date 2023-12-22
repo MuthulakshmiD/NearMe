@@ -1,5 +1,5 @@
 # Ex04 Places Around Me
-# date: 21.11.2023
+# date: 30/11/2023
 ## AIM
 To develop a website to display details about the places around my house.
 
@@ -107,32 +107,36 @@ Aavani perunthirunaal and Maasi perunthirunaal conducted and celebrated during A
 </font>
 </p>
 </body>
-</html><html>
-    <head>
-        <body bgcolor="yellow"></body>
-        <h1 align="center">
-        <font color="red"><b>Tiruchendur</b></font>
-        </h1>
-        <font color="blue"<b><center>Tiruchendur Murugan Temple</center></b></font>
-        </h3>
-        <hr size="3"  bgcolor="red">
-        <p>
-        <font face="Georgia" size="5"></font>
-    Tiruchendur is a municipality located in Thoothukudi District, Tamil Nadu, India. It is home to the Arulmigu Subramaniya 
-    Swamy Temple, which is one of the Six Abodes of Murugan.[2][3][4] It is also the only abode of Murugan that is situated 
-    on a seashore.
-    Tiruchendur, a temple town like many towns in the state of Tamil Nadu, is named after the red soil nature of the town 
-    Senthoor.
-    Tiruchendur is located on the shoreline overlooking the Bay of Bengal in the south-eastern part of Tamil Nadu. The 
-    suburban villages surrounding the town contain arid, red soil forests that are densely planted with palm trees, cashew
-    plantations, and other crops part of the region
-    Festivals are celebrated throughout the year at the temple, including Brahmothsavam in the month of Maasi, Vasanthotsavam 
-    for 10 days in Chithirai, Vaikasi Visakam for 12 days and Skandha Sashti in Aippasi. There are two Maha Utsavams called 
-    Aavani perunthirunaal and Maasi perunthirunaal conducted and celebrated during Aavani and Maasi. 
-    </font>
-    </p>
-    </body>
-    </html>
+</html>  
+
+pond.html
+
+<html>
+<head>
+    <body bgcolor="lightgreen"></body>
+    <h1 align="center">
+    <font color="red"><b>Tiruchendur</b></font>
+    </h1>
+    <font color="blue"<b><center>avudayar kulam</center></b></font>
+    </h3>
+    <hr size="3"  bgcolor="blue">
+<p>
+<font face="Georgia" size="5"></font>
+Teppakulam, often referred to as a temple tank, is a traditional South Indian 
+water tank built in proximity to temples. One notable example is the Vandiyur
+ Mariamman Teppakulam in Madurai. Characterized by its vast size, Teppakulams
+  are typically constructed with steps leading down to the water, and they play
+   a significant role in religious ceremonies. During the annual Float Festival, 
+   the tank is filled with water and adorned with elaborately decorated floats 
+   carrying deities. This ritual holds cultural and spiritual importance, drawing 
+   devotees who participate in the festivities surrounding the floating procession.
+    Beyond its religious significance, Teppakulam also serves
+as a tranquil space, providing a serene environment for contemplation and reflection.
+</font>
+</p>
+</body>
+</html>
+
 
 sea.html
 
@@ -193,17 +197,17 @@ cave.html
 
 ## OUTPUT
 
-![Alt text](Anitha/1..png)
+![Alt text](Anitha/mathapp/static/map1.png)
 
-![Alt text](Anitha/2.png)
+![Alt text](Anitha/mathapp/static/map2.png)
 
-![Alt text](Anitha/3.png)
+![Alt text](Anitha/mathapp/static/map3.png)
 
-![Alt text](Anitha/4.png)
+![Alt text](Anitha/mathapp/static/map4.png)
 
-![Alt text](Anitha/5.png)
+![Alt text](Anitha/mathapp/static/map5.png)
 
-![Alt text](Anitha/6.png)
+![Alt text](Anitha/mathapp/static/map6.png)
 
 
 ## RESULT
